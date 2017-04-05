@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Thalia's page
 
 You can use the [editor on GitHub](https://github.com/tpick002/hello-world/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
